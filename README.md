@@ -1,11 +1,21 @@
-Kdxh<img src="https://github.com/Abel5173/web_practice_1/blob/main/images/img.gif" width="100%" min-height="10vh">
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}</style>
+<img src="https://github.com/Abel5173/web_practice_1/blob/main/images/img.gif" width="100%" min-height="10vh">
 <h1 align="center">Hi 👋, I'm Abel Zeleke</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533Kdxhfc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel5173&label=Profile%20views&color=0e75b6&style=flat" alt="abel5173" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel5173" alt="abel5173" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://g*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}ithub-profile-trophy.vercel.app/?username=abel5173" alt="abel5173" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python, Bash scripting**
 https://github.com/Abel5173/web_practice_1/blob/main/images/Kdxh.gifKdxh
