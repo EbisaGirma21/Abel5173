@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel5173&label=Profile%20views&color=0e75b6&style=flat" alt="abel5173" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://g*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}ithub-profile-trophy.vercel.app/?username=abel5173" alt="abel5173" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel5173" alt="abel5173" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python, Bash scripting**
 https://github.com/Abel5173/web_practice_1/blob/main/images/Kdxh.gifKdxh
