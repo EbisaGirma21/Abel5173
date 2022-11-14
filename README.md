@@ -1,7 +1,7 @@
-Kdxh<img src="https://github.com/Abel5173/web_practice_1/blob/main/images/img.gif" width="100%" height="70vh">
+Kdxh<img src="https://github.com/Abel5173/web_practice_1/blob/main/images/img.gif" width="100%" height="70%">
 <h1 align="center">Hi 👋, I'm Abel Zeleke</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400" alt="Coding">
+<img align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533Kdxhfc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel5173&label=Profile%20views&color=0e75b6&style=flat" alt="abel5173" /> </p>
 
