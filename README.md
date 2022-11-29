@@ -1,21 +1,47 @@
-<img src="https://github.com/Abel5173/web_practice_1/blob/main/images/img.gif" width="100vh">
-<h1 align="center">Hi 👋, I'm Abel Zeleke</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533Kdxhfc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400" alt="Coding">
+<h1 align="center">Hey 👋, I'm Tinsaye Simeneh </h1>
+<h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abel5173&label=Profile%20views&color=0e75b6&style=flat" alt="abel5173" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel5173" alt="abel5173" /></a> </p>
-
-- 🌱 I’m currently learning **React, Python, Bash scripting**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/abel-zeleke-3812101b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abel-zeleke-3812101b7" height="30" width="40" /></a>
+## 🌐 About me:
+<p> I’m a Frontend Web Developer, UI/UX Designer and Engineering Stundet.
+I'm passionate about creating a Good and trusted UI product. I
+I'm open to collaborate. Feel free to reach me out. 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rKdxhel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel5173&show_icons=true&locale=en&layout=compact" alt="abel5173" /></p>
+- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abel5173&show_icons=true&locale=en" alt="abel5173" /></p>
+- 👜 Some of My UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abel5173&" alt="abel5173" /></p>
+- 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
+
+## 🌐 Social Presence:
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tinsayesimeneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tinsayesimeneh)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/TinsayeSimeneh)
+
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+![Git](https://img.shields.io/badge/git-%2300D8FF.svg?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-%2300D8FF.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
