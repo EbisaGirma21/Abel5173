@@ -1,10 +1,12 @@
 <img src="https://github.com/Abel5173/Abel5173/blob/main/web.gif" width="100%" height="250" />
+
 ![](https://komarev.com/ghpvc/?username=Abel5173)
 <h1 align="center">Hey 👋, I'm Abel Zeleke </h1>
 <h2 align="center">Frontend Web Developer</h2>
 
 ## 🌐 About me:
 <p> I’m a Frontend Web Developer and Software Engineering Student.</p>
+
 ## 🌐 Social Presence:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-zeleke-3812101b7)
