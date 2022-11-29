@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/Abel5173/Abel5173/blob/main/web.gif" width="100%" height="250" />
 <h1 align="center">Hey 👋, I'm Abel Zeleke </h1>
 <h2 align="center">Frontend Web Developer</h2>
 
