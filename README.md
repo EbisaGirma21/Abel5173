@@ -1,4 +1,4 @@
-<img src="https://github.com/Abel5173/Abel5173/blob/main/web.gif" width="100%" height="250" />
+<img src="https://github.com/Abel5173/Abel5173/blob/main/web.gif" width="100%" height="245" />
 
 ![](https://komarev.com/ghpvc/?username=Abel5173)
 <h1 align="center">Hey 👋, I'm Abel Zeleke </h1>
